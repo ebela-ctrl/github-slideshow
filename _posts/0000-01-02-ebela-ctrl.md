@@ -1,1 +1,9 @@
-
+<DODTYPE html>
+    <html>
+        <head>
+            <title>My web page!</title>
+        </head>
+        <body>
+            Hello world!
+        </body>
+    </html>    
